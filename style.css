@@ -1,0 +1,25 @@
+#container{
+    width: 100px;
+    height: auto;
+    padding: 48px 128px;
+    background-color: #f5f5dd;
+}
+
+div > div{
+    width: 100px;
+    height: 100px;
+    margin-bottom: 12px;
+}
+
+#square1{
+    background-color: rgba(00,00,00,1);
+}
+#square2{
+    background-color: rgba(00,00,00,0.75);
+}
+#square3{
+    background-color: rgba(00,00,00,0.5);
+}
+#square4{
+    background-color: rgba(00,00,00,0.25);
+}
